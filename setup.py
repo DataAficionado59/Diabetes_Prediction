@@ -8,7 +8,7 @@ def get_requirements(file_path:str)->List[str]:
         requirements=[req.replace("\n","")for req in requirements] 
         if HYPEN in requirements:
             requirements.remove(HYPEN)
-        
+    return requirements   
 setup(
     name = 'Diabetes_Prediction',
     version='0.0.1',
