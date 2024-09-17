@@ -11,3 +11,28 @@
 +defaults/win-64::vs2015_runtime-14.40.33807-h98bb1dd_1
 +defaults/win-64::wheel-0.44.0-py38haa95532_0
 # update specs: ['python==3.8']
+==> 2024-09-17 12:46:28 <==
+# cmd: C:\Users\pradip\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix c:/Machine Learning/Diabetes_Prediction/venv tensorboard -y
+# conda version: 23.7.4
+-defaults/win-64::ca-certificates-2024.7.2-haa95532_0
+-defaults/win-64::openssl-1.1.1w-h2bbff1b_0
++conda-forge/noarch::importlib-metadata-8.5.0-pyha770c72_0
++conda-forge/noarch::markdown-3.6-pyhd8ed1ab_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/noarch::werkzeug-2.0.3-pyhd8ed1ab_1
++conda-forge/noarch::zipp-3.20.2-pyhd8ed1ab_0
++conda-forge/win-64::ca-certificates-2024.8.30-h56e8100_0
++conda-forge/win-64::intel-openmp-2024.2.1-h57928b3_1083
++conda-forge/win-64::libblas-3.9.0-8_mkl
++conda-forge/win-64::libcblas-3.9.0-8_mkl
++conda-forge/win-64::liblapack-3.9.0-8_mkl
++conda-forge/win-64::mkl-2020.4-hb70f87d_311
++conda-forge/win-64::numpy-1.23.5-py38h90ce339_0
++conda-forge/win-64::openssl-1.1.1l-h8ffe710_0
++conda-forge/win-64::protobuf-3.20.3-py38haa244fe_1
++conda-forge/win-64::python_abi-3.8-2_cp38
++conda-forge/win-64::tensorboard-1.14.0-py38_0
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
++defaults/win-64::libprotobuf-3.20.3-h23ce68f_0
++defaults/win-64::zlib-1.2.13-h8cc25b3_1
+# update specs: ['tensorboard']
